@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+1N4148W,"D1,D2",Diode_SMD:D_SOD-123,C81598
+Screw_Terminal_01x03_green,J1,0_connectors:TerminalBlock_bornier-3_P5.08mm-green,C395850
+Screw_Terminal_01x03_blue,"J2,J3",0_connectors:TerminalBlock_bornier-3_P5.08mm-blue,C395881
+HFD2-012-M-L2,K1,0_relays:Relay_DPDT_HFD2-xxx-M-L2,C399484
+270,R1,Resistor_SMD:R_0805_2012Metric,C17590
